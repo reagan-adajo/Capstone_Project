@@ -9,6 +9,22 @@
     5. RONALD OGWANG
     6. FILDA KIARIE
 
-## PROPOSED TOPIC:
+## PROPOSED TOPICs:
+
+    1. Price prediction for cryptocurrency (F.K.)
+
+    2. Building custom GPT (A.M.)
+
+    3. Detecting Food Fraud (R.A)
+
+    4. Retail-demand forecasting (R.O)
+
+    5. Detection of cancers via symptoms (S.K)
+
+    6. Fake News Detection (D.M.)
+
+    7. Extraction of structured data from PDFs (A.M.)
+
+
 
 
