@@ -1,30 +1,19 @@
 
 ## PHASE 5 CAPSTONE PROJECT PROPOSAL
-    GROUP 9
-## MEMBERS:
-    1. ANGELA MWANZIA
-    2. REAGAN ADAJO
-    3. DANIEL MUIGAI
-    4. SAMUEL KAMAU
-    5. RONALD OGWANG
-    6. FILDA KIARIE
+## Fake News Detection 
 
-## PROPOSED TOPICs:
+**What is Fake News Detection?** 
 
-    1. Price prediction for cryptocurrency (F.K.)
+Fake news detection in ML involves using algorithms to classify news articles as either real or fake based on linguistic patterns, source credibility, and other features. Models are trained on labeled datasets to identify misleading or false information. Common techniques include:
 
-    2. Building custom GPT (A.M.)
+- **Natural Language Processing (NLP)**: Analyzing text structure, sentiment, and writing style.
+- **Supervised Learning**: Training classifiers (e.g., Logistic Regression, SVM, Random Forest, LSTMs) using labeled datasets.
+- **Deep Learning & Transformers**: Using models like BERT for context-aware detection.
 
-    3. Detecting Food Fraud (R.A)
-
-    4. Retail-demand forecasting (R.O)
-
-    5. Detection of cancers via symptoms (S.K)
-
-    6. Fake News Detection (D.M.)
-
-    7. Extraction of structured data from PDFs (A.M.)
-
+## Recommended Datasets
+- `LIAR Dataset` – Short political statements labeled with truthfulness ratings.[Link](https://paperswithcode.com/dataset/liar2)
+- `Fake News Dataset (Kaggle)` – News articles labeled as fake or real. [Link](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
+- `FakeNewsNet` – A comprehensive dataset with source credibility and social engagement data. [Link](https://www.kaggle.com/datasets/mdepak/fakenewsnet)
 
 
 
