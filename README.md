@@ -13,9 +13,15 @@
 
     1. Building a custom GPT 
 
+    
+
     2. Retail-demand forecasting
 
+    https://www.kaggle.com/competitions/ml-zoomcamp-2024-competition/data
+
     3. Detection of cancers via symptoms
+
+    https://www.kaggle.com/datasets/erdemtaha/cancer-data
 
 
 
