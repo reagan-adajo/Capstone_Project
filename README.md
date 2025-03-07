@@ -13,7 +13,7 @@
 
     1. Building a custom GPT 
 
-    
+    https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot
 
     2. Retail-demand forecasting
 
