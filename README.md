@@ -14,9 +14,11 @@
 ### Project Overview
 We propose to develop a machine learning solution to accurately forecast customer demand across multiple retail locations, optimizing inventory management and reducing operational inefficiencies. Using 25 months of historical sales data from four stores, we'll create predictive models that capture complex patterns in customer purchasing behavior, price sensitivity, and promotional impacts.
 ### Objectives
-i. Develop a machine learning model that accurately predicts product demand across multiple store locations.
-ii. 	Identify Key Factors influencing customer purchasing patterns
-iii.	Understand the impact of pricing strategies, promotions and markdowns on sales volumes
+1. Develop a machine learning model that accurately predicts product demand across multiple store locations.
+
+2. Identify Key Factors influencing customer purchasing patterns
+
+3. Understand the impact of pricing strategies, promotions and markdowns on sales volumes
 ### Data Sources
 The project integrates diverse data sources, including in-store and online sales, price changes, markdowns, promotional history, product catalog information, and store-specific details. Our analysis will leverage datasets spanning 25 months of historical sales data from four retail stores:
 
