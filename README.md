@@ -1,13 +1,6 @@
 
-## PHASE 5 CAPSTONE PROJECT PROPOSAL
-    GROUP 9
-## MEMBERS:
-    1. ANGELA MWANZIA
-    2. REAGAN ADAJO
-    3. DANIEL MUIGAI
-    4. SAMUEL KAMAU
-    5. RONALD OGWANG
-    6. FILDA KIARIE
+## PHASE 5 CAPSTONE PROJECT
+
 
 ## TOPIC: Retail Demand Forecast
 
@@ -91,11 +84,4 @@ Select an appropriate method based on the nature of your data:
 ### Step 8: Refine and Deploy
 - Iterate by adjusting model parameters or adding more relevant features.
 - Deploy the model using tools like Flask, FastAPI, or a cloud platform for real-time forecasting.
-
-If you're just starting out, I'd recommend trying out Prophet (a library by Facebook) since it simplifies time series forecasting and is user-friendly. Let me know if you'd like code examples for any of these steps!   
-
-
-
-
-
 
