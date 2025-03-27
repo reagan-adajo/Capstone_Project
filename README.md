@@ -41,17 +41,19 @@ These aggregations help in understanding demand patterns at various granularitie
 
 - Department/Class-level: Identifies category-wide trends to capture broader market shifts.
 
-3.	Model Development 
+3.	Model Development  
 
 We Trained and evaluated a LightGBM model for demand forecasting.
 
 
 ### Evaluation Metric
 o	Model performance
+
 Validation RMSE: 1.1625
+
 Validation MAE: 0.2745
 
-o	Identify key demand drivers
+o	Identifying key retail demand drivers
 ![Feature Importance](image-2.png)
 
 
