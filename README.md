@@ -30,7 +30,7 @@ o	EDA & visualization
 
 ![Quantity Sold in Different Stores](image.png)
 ![Quantity Sold Over Time](image-1.png)
-
+![Impact of Discounts on Sales](image-3.png)
 o	Develop temporal features (trends, seasonality)
 We aggregated features at different levels (store, item, department, and class) to capture sales trends across multiple hierarchies. 
 These aggregations help in understanding demand patterns at various granularities, improving forecast accuracy.
@@ -56,5 +56,11 @@ Validation MAE: 0.2745
 o	Identifying key retail demand drivers
 ![Feature Importance](image-2.png)
 
+## Recommendations
+1. The customers should leverage the model to determine the true customer demand for a particular product, at a given time to minimize overstocking and avoid stockouts
+2. The stores should adapt to market dynamics due to seasonality of demand. For example, all the stores should prepare for the peak sales periods to avoid unexpected market shifts while increasing profitability
+3. The stores should not invest heavily into discounts but other sales promotions since they do not impact on sales revenues or quantity sold
+4. For inventory optimization, continuous evaluation of the demand forecast is desired based on real-time data
 
 ## Deployment
+
