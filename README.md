@@ -7,6 +7,7 @@ This repository contains a Jupyter Notebook that demonstrates the process of bui
 
 ## Table of Contents
 
+- [Data Source](#data-sources)
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Dataset Description](#dataset-description)
@@ -19,6 +20,13 @@ This repository contains a Jupyter Notebook that demonstrates the process of bui
 - [Future Work](#future-work)
 - [Dependencies](#dependencies)
 - [License](#license)
+
+---
+## Data Sources
+
+The project integrates diverse data sources, including in-store and online sales, price changes, markdowns, promotional history, product catalog information, and store-specific details. Our analysis will leverage datasets spanning 25 months of historical sales data from four retail stores:
+
+Source Link: https://www.kaggle.com/competitions/ml-zoomcamp-2024-competition/data
 
 ---
 
