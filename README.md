@@ -74,6 +74,8 @@ Key features developed include:
 - **Seasonal Indicators:** `dow_avg_quantity`, `month_avg_quantity`, `quarter_avg_quantity`, `quantity_seasonal_idx` to capture recurring seasonal patterns.
 - **Interaction Features:** (Optional) Interaction between lag values and seasonal indices to capture complex relationships.
 
+![Example of Feature-Engineering on Store 2](image-4.png)
+
 These engineered features play a critical role in capturing both immediate and historical trends, which are essential for accurate forecasting.
 
 ---
@@ -101,9 +103,9 @@ Additional metrics such as MAPE and sMAPE can be incorporated for a relative eva
 
 ## Results & Insights
 
-- **Model Performance:**  
-  - **Validation RMSE:** 0.7923  
-  - **Validation MAE:** 0.5806  
+- **LightGBM Model Performance:**  
+  - **Validation RMSE:** 1.2538  
+  - **Validation MAE:** 0.3136  
   These metrics indicate that the model has good predictive accuracy relative to the scale of the data.
   
 - **Feature Importance:**  
